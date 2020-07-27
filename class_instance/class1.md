@@ -14,5 +14,5 @@
 
 1. change_fan_speed (increase/decrease)
 2. turn_on (activate or deactivate)
-3. cool_room (decrease tempurature)
+3. cool_room (decrease temperature)
 4. turn_on_light (changes has_light_on from false to true)
